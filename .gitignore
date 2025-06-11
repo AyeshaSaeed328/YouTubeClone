@@ -1,0 +1,13 @@
+# add node_modeules and .env and other files to ignore
+# Node modules
+node_modules/
+# Environment variables
+.env
+# Logs
+logs/
+# Temporary files
+*.log
+# Build directories
+dist/
+# Coverage reports
+coverage/
